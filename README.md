@@ -173,9 +173,6 @@ Success due to:
 
 ## 🔗 Code, Checkpoints & Web App
 
-**Model Code:**  
-https://github.com/Akhilesh348/Multilingual-Memes-Classification-Harmful-Non-Harmful-.git
-
 **Web Application:**  
 https://github.com/Praveennayak22/Meme_Classifier_Web_App
 
